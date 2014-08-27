@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-    	   stud::cout << "HelloWorld!" << std::endl;
+    	   stud::cout << "FightOn!" << std::endl;
 }
